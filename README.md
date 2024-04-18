@@ -1,13 +1,13 @@
-<h1 align="center">//ALIAS: Okami-One</h1>
-<h3 align="center">//PROFILE: -FULLSTACK_DEV -SOLUTIONS_ARCHITECT -VISUAL_ARTIST</h3>
-<h3 align="start">-FULLSTACK_DEV</h3>
-<h3 align="start">-SOLUTIONS_ARCHITECT</h3>
-<h3 align="start">-VISUAL_ARTIST</h3>
-
-- ⚡ Fun fact **THERE_IS_NO_SPOON**
+<h1 align="start"><b>//ALIAS:</b> Okami-One</h1>
+<h3 align="start"><b>//PROFILE:</b></h3>
+- <h3 align="start">-FULLSTACK_DEV</h3>
+- <h3 align="start">-SOLUTIONS_ARCHITECT</h3>
+- <h3 align="start">-VISUAL_ARTIST</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://steamcommunity.com/id/sosmot/" target="blank"><img align="center" src="steam_icon" alt="sosmot" height="30" width="40" /></a>
+<a href="https://psnprofiles.com/okamisama-one" target="blank"><img align="center" src="psn" alt="okamisama-one" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/susmit-wadikar-6173611bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmit-wadikar-6173611bb" height="30" width="40" /></a>
 <a href="https://www.behance.net/okami_graffiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="okami_graffiti" height="30" width="40" /></a>
 </p>
