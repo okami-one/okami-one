@@ -1,5 +1,8 @@
 <h1 align="center">//ALIAS: Okami-One</h1>
-<h3 align="center">??PROFILE: -FULLSTACK_DEV -SOLUTIONS_ARCHITECT -VISUAL_ARTIST</h3>
+<h3 align="center">//PROFILE: -FULLSTACK_DEV -SOLUTIONS_ARCHITECT -VISUAL_ARTIST</h3>
+<h3 align="start">-FULLSTACK_DEV</h3>
+<h3 align="start">-SOLUTIONS_ARCHITECT</h3>
+<h3 align="start">-VISUAL_ARTIST</h3>
 
 - ⚡ Fun fact **THERE_IS_NO_SPOON**
 
